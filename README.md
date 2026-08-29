@@ -5,6 +5,8 @@
 ![AI Engine](https://img.shields.io/badge/AI_Engine-Proprietary_Voice-orange)
 ![Deployment](https://img.shields.io/badge/Deployment-Cloud_Native-purple)
 
+### 🚀 **[View Live Demo: hivonlabs.vercel.app](https://hivonlabs.vercel.app/)**
+
 > **HivonLabs** is a highly scalable, low-latency AI Voice Receptionist designed to handle business inbound/outbound calls, converse naturally with human-like latency, and execute complex scheduling logic autonomously.
 
 ---
@@ -60,3 +62,4 @@ Our architecture is split into highly cohesive, loosely coupled microservices:
 ---
 
 *Developed by [Devesh Goyal](https://github.com/deveshgoyal1000)*
+
